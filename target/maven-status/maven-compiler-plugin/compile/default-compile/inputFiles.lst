@@ -1,0 +1,16 @@
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/Repository/UserRepository.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/service/serviceImpl/RegistrationServiceImpl.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/service/serviceImpl/ChattyServiceImpl.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/controller/GreetingController.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/Repository/MessageRepository.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/service/RegistrationService.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/model/User.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/model/Role.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/controller/RegistrationController.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/service/ChattyService.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/controller/ChattyController.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/model/Message.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/config/MvcConfiguration.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/service/serviceImpl/UserServiceImpl.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/config/SecurityConfig.java
+/Users/roman/chatty/src/main/java/ua/taras/kushmyruk/Application.java

@@ -1,0 +1,16 @@
+ua/taras/kushmyruk/service/serviceImpl/RegistrationServiceImpl.class
+ua/taras/kushmyruk/service/serviceImpl/UserServiceImpl.class
+ua/taras/kushmyruk/controller/ChattyController.class
+ua/taras/kushmyruk/Repository/UserRepository.class
+ua/taras/kushmyruk/Repository/MessageRepository.class
+ua/taras/kushmyruk/config/MvcConfiguration.class
+ua/taras/kushmyruk/model/Message.class
+ua/taras/kushmyruk/model/Role.class
+ua/taras/kushmyruk/service/serviceImpl/ChattyServiceImpl.class
+ua/taras/kushmyruk/service/RegistrationService.class
+ua/taras/kushmyruk/controller/RegistrationController.class
+ua/taras/kushmyruk/controller/GreetingController.class
+ua/taras/kushmyruk/config/SecurityConfig.class
+ua/taras/kushmyruk/model/User.class
+ua/taras/kushmyruk/service/ChattyService.class
+ua/taras/kushmyruk/Application.class
